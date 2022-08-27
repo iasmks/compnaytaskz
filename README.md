@@ -1,2 +1,0 @@
-# Polkadex
-Zenatix Assignment
